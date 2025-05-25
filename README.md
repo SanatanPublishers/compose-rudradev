@@ -1,5 +1,7 @@
 # compose-rudradev
-This is manuscript work is in development mode. 
+This is manuscript work is in development mode.
+
+<br/>
 
 **Things To Do**
 
@@ -17,8 +19,9 @@ Fonts : [https://fontmeme.com/fonts/devanagari-fonts-collection/], [https://font
 
 ***For refs page - Thin 200 / 300 / 400***
 
+<br/>
 
-**IMP**
+<ins>*IMP* </ins>
 
 **1. Cover Design:** Front Cover [Color White , Font Black ,  Marketing Guide Font White and color Green/Cyan/Red/Maroon] ***Title*** , ***Author Name*** , ***Press Name***, ***logo***. 
 
@@ -32,10 +35,14 @@ Fonts : [https://fontmeme.com/fonts/devanagari-fonts-collection/], [https://font
 **4. Book Arts:** Titles with ***contents written***, with ***background images [Range 1-9],*** Page numbers and ***Content references.***
 
 
-**5. Contents:** ***Do Check*** : <br/>  <ins>***MyFonts,*** </ins> <ins>***Google Fonts etc.*** </ins>
+**5. ***Do Check*** : <br/>  <ins>***MyFonts,*** </ins> , <ins>***Google Fonts etc.*** </ins>
 
 
-**Useful Resources**
+<br/>
+
+
+<ins>*Useful Resources*</ins>
+
 
 1. Getting Started : https://help.leanpub.com/en/articles/2916385-getting-started-using-leanpub-s-git-and-github-writing-mode-to-write-and-publish-a-book
 
@@ -44,7 +51,7 @@ Fonts : [https://fontmeme.com/fonts/devanagari-fonts-collection/], [https://font
 3. Proofreading : [https://paraphrasetool.com/langs/hindi-grammar-checker] , [https://techwelkin.com/tools/hindi-proof-reader-editor/] , [https://hindispell.ekvastra.in/]
 
 
-*things you must know*
+<ins>*things you must know*</ins>
 
 
 4. Index : [https://edinburghuniversitypress.com/publish-with-us/from-manuscript-to-finished-book/preparing-your-index] , [https://www.linkedin.com/pulse/how-create-index-glossary-your-book-self-publishing-relief-smith/] , [https://academia.stackexchange.com/questions/109466/how-to-compile-an-index-for-a-book-efficiently-if-at-all-possible] , [https://kindlepreneur.com/index-in-a-book/]
