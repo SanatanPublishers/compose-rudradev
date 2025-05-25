@@ -1,6 +1,30 @@
 # compose-rudradev
 This is manuscript work is in development mode. 
 
+**Things To Do**
+
+Fonts : [To Be Updated Soon.. ] 
+
+For Cover Title -
+For Author Name - 
+Press Logo - 
+For Contents/ Index Page - 
+For Matter/ body contents of book - 
+For refs page - 
+
+**IMP**
+
+Cover Design : Front Cover [Color White , Font Black ,  Marketing Guide Font White and color Green/Cyan/Red/Maroon] Title , Author Name , Press Name, logo etc. 
+
+Back Cover : [Color Cream : #FFFDD0 , Font Black or Brown : #6F4E37] , 60% Quotes in Hindi , 40% dedicated yet powerful catchy lines.
+
+Page Design : Dedicated page for Publisher , Dedicated page for the Book & its Contents , Dedicated page for the references
+
+Book Arts : Titles with contents written , with background images [Range 1-9], Page numbers and Content references.
+
+Contents : Fonts Check : MyFonts , Google Fonts etc.
+
+
 **Useful Resources**
 
 1. Getting Started : https://help.leanpub.com/en/articles/2916385-getting-started-using-leanpub-s-git-and-github-writing-mode-to-write-and-publish-a-book
