@@ -5,12 +5,18 @@ This is manuscript work is in development mode.
 
 Fonts : [https://fontmeme.com/fonts/devanagari-fonts-collection/], [https://fontmeme.com/fonts/devanagari-fonts-collection/], [https://fonts.google.com/?subset=devanagari]
 
-For Cover Title - Bold 700 / ExtraBold 700 / 600
-For Author Name - Regular 400 / Medium 400
-Press Logo & Address - Medium 500
-For Contents/ Index Page - Regular 700 / SemiBold 700 / Bold 700
-For Matter/ body contents of book - Regular 200 / 300 / 400
-For refs page - Thin 200 / 300 / 400
+***For Cover Title*** - ***Bold 700 / ExtraBold 700 / 600***
+
+***For Author Name - Regular 400 / Medium 400***
+
+***Press Logo & Address - Medium 500***
+
+***For Contents/ Index Page - Regular 700 / SemiBold 700 / Bold 700***
+
+***For Matter/ body contents of book - Regular 200 / 300 / 400***
+
+***For refs page - Thin 200 / 300 / 400***
+
 
 **IMP**
 
