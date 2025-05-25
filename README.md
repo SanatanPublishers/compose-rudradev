@@ -14,15 +14,19 @@ For refs page - Thin 200 / 300 / 400
 
 **IMP**
 
-Cover Design : Front Cover [Color White , Font Black ,  Marketing Guide Font White and color Green/Cyan/Red/Maroon] Title , Author Name , Press Name, logo etc. 
+**1. Cover Design:** Front Cover [Color White , Font Black ,  Marketing Guide Font White and color Green/Cyan/Red/Maroon] ***Title*** , ***Author Name*** , ***Press Name***, ***logo***. 
 
-Back Cover : [Color Cream : #FFFDD0 , Font Black or Brown : #6F4E37] , 60% Quotes in Hindi , 40% dedicated yet powerful catchy lines.
 
-Page Design : Dedicated page for Publisher , Dedicated page for the Book & its Contents , Dedicated page for the references
+**2. Back Cover:** [Color Cream : #FFFDD0 , Font Black or Brown : #6F4E37] , ***60% Quotes in Hindi , 40% dedicated yet powerful catchy lines.***
 
-Book Arts : Titles with contents written , with background images [Range 1-9], Page numbers and Content references.
 
-Contents : Fonts Check : MyFonts , Google Fonts etc.
+**3. Page Design:** <ins>Dedicated page for</ins> ***Publisher***, <ins>Dedicated page for</ins> ***Book & its Contents***, <ins>Dedicated page for</ins> ***references***
+
+
+**4. Book Arts:** Titles with ***contents written***, with ***background images [Range 1-9],*** Page numbers and ***Content references.***
+
+
+**5. Contents:** ***Do Check*** : <br/>  <ins>***MyFonts,*** </ins> <ins>***Google Fonts etc.*** </ins>
 
 
 **Useful Resources**
